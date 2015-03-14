@@ -1,0 +1,44 @@
+body{
+	background-color: #fbfdf8;
+}
+
+p{
+	color: #33444b;
+}
+
+#sake_bottle{
+	margin-top: 20px;
+	width: 220px;
+}
+
+#top-line{
+	position: absolute;
+	border-top: 1px solid #dde2e5;
+	-webkit-transform: rotate(35deg);
+  -webkit-transform-origin: top left;
+  -moz-transform: rotate(35deg);
+  -moz-transform-origin: top left;
+  z-index: -1;
+  right: -115px;
+}
+
+#unofficial-copy{
+	display: inline-block;
+	font-size: 1.2em;
+	margin: 300px 0 0 30px;
+}
+
+#japanese-copy{
+	position: absolute;
+	font-size: 6em;
+	font-style: italic;
+	color: #e4e4e4;
+	top: 230px;
+	left: 230px;
+	z-index: -1;
+}
+
+#sake-copy{
+	font-size: 6em;
+	margin-left: 30px;
+}
