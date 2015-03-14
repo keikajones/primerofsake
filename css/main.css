@@ -1,5 +1,6 @@
 body{
 	background-color: #fbfdf8;
+	height: 1800px;
 }
 
 p{
@@ -8,7 +9,7 @@ p{
 
 #sake_bottle{
 	margin-top: 20px;
-	width: 220px;
+	width: 260px;
 }
 
 #top-line{
@@ -23,14 +24,14 @@ p{
 }
 
 #unofficial-copy{
-	display: inline-block;
 	font-size: 1.2em;
-	margin: 300px 0 0 30px;
+	margin: 300px 0 0 60px;
 }
 
 #japanese-copy{
 	position: absolute;
 	font-size: 6em;
+	font-family: "EB Garamond";
 	font-style: italic;
 	color: #e4e4e4;
 	top: 230px;
@@ -39,6 +40,76 @@ p{
 }
 
 #sake-copy{
-	font-size: 6em;
-	margin-left: 30px;
+	font-size: 8em;
+	margin-top: -40px;
+	margin-left: 60px;
+	font-family: "Playfair Display SC";
 }
+
+#intro-copy{
+	margin-left: 120px;
+	color: #869398;
+	width: 375px;
+	font-family: "Open Sans";
+	font-size: 0.8em;
+	font-weight: 300;
+	line-height: 2.5;
+}
+
+#kanpai-copy{
+	font-style: italic;
+}
+
+#arrow-jump{
+	width: 40px;
+	margin: 30px 0 0 280px;
+}
+
+#arrow-scroll{
+	position: absolute;
+	top: 700px;
+}
+
+.quote-copy{
+	position: absolute;
+	left: 500px;
+	top: 670px;
+}
+
+#quotes{
+	font-family: "EB Garamond";
+	font-size: 13em;
+	color: #abb4b4;
+}
+
+#yeast-copy{
+	position: absolute;
+	font-family: "EB Garamond";
+	font-style: italic;
+	font-size: 3.5em;
+	width: 500px;
+	top: 70px;
+	left: 40px;
+	color: #33444b;
+}
+
+#ingredients-line{
+	border-top: 1px solid #dde2e5;
+	margin-top: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
